@@ -1,4 +1,5 @@
 Bitmedia test task 
+
 More detailed description about each module are presented in readme file in every separate folder
 In this repository you will find 3 folders:
 1. Terraform - here the Terraform configuration files for infrastructure in AWS cloud are located
